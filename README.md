@@ -23,7 +23,7 @@ Step 8: Turn off checksum validation in the programs settings.
 
 Step 9: Press start.
 
-Step 10: unzip the patched file.
+Step 10: Unzip the patched file.
 
 Step 11: Replace the unpatched Resources folder with the patched one in the duplicate.
 
