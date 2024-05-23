@@ -30,3 +30,14 @@ Step 11: Replace the unpatched Resources folder with the patched one in the dupl
 Step 12: Open the duplicate.
 
 You're Done!
+
+## Making mods
+
+Because this is the first Sneaky Sasquatch mod i'm gonna tell you how to make mods!
+
+Step 1: Get a windows computer (ignore how wierd this is).
+
+Step 2: Download [UABEA](https://github.com/nesrak1/UABEA) on the windows computer (and yes it doesn't work in wine).
+
+Step 3: Send your copy of Sneaky Sasquatch to the windows computer.
+
